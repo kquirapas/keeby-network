@@ -7,13 +7,17 @@ name = "cli"
 version = "0.1.0"
 
 [[package]]
+name = "core"
+version = "0.1.0"
+
+[[package]]
 name = "keeby"
 version = "0.1.0"
 
 [[package]]
-name = "node"
+name = "logger"
 version = "0.1.0"
 
 [[package]]
-name = "vm"
+name = "node"
 version = "0.1.0"

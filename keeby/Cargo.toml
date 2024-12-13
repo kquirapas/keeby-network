@@ -1,11 +1,12 @@
 [package]
 name = "keeby"
-version.workspace = true
-authors.workspace = true
-repository.workspace = true
-homepage.workspace = true
-license.workspace = true
-edition.workspace = true
+description = ""
+version = { workspace = true }
+authors = { workspace = true }
+repository = { workspace = true }
+homepage = { workspace = true }
+license = { workspace = true }
+edition = { workspace = true }
 
 [[bin]]
 name = "keeby"
